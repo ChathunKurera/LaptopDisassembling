@@ -1,1 +1,3 @@
 # LaptopDisassembling
+
+This is probably the most interesting computer that I have taken apart up to date. Disassembling old iMacs, or ages old Sun servers haven't given me such a *inner peace* :D
