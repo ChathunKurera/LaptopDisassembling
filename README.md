@@ -4,4 +4,4 @@ This is probably the most interesting computer that I have taken apart up to dat
 
 ![alt tag](https://github.com/ychathun/LaptopDisassembling/blob/master/images/20151202_105441.jpg)
 
-Some specifications of the laptop that I was able to find are that it has a 
+Finding the specs of the laptop was surprisingly hard. Some specifications of the laptop that I was able to find are that it has a 
