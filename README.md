@@ -7,6 +7,8 @@ This is probably the most interesting computer that I have taken apart up to dat
 ```
 
 
+
+
 ```
 
 ###Finding the specs of the laptop was surprisingly hard. Some **specifications** of the laptop that I was able to find are:
@@ -15,14 +17,19 @@ This is probably the most interesting computer that I have taken apart up to dat
 
 ```
 
+
 ```
 The vendor of the laptop is Zenith Data Systems. There was a sticker with the model number and some useful information.
 The laptop has a seal inside its screen cover saying it was assembled on 4.April.1990 so this laptop really is 25 years old! Unfortunately, I was not able to turn on the computer but it is understandable.
 ![alt tag](https://github.com/ChathunKurera/LaptopDisassembling/blob/master/images/model.jpg)
 
+Another thing that I noticed right away was that this laptop is at least 15kgs. Yes, that's a lot for a laptop. But fear not! There is an in-built handle that you can use to carry it as a briefcase :D ![alt tag](https://github.com/ChathunKurera/LaptopDisassembling/blob/master/images/handle.jpg)
+
 The motherboard of the machine was behind the screen unlike modern laptops and surprisingly, there were no circuitry under the keyboard.
 
 As you can probably guess, the screen was rather large in comparison to a modern laptop screen --> ![alt tag](https://github.com/ChathunKurera/LaptopDisassembling/blob/master/images/screenCompare.jpg)
+
+
 
 Finally, one of the most neat things I found about this laptop was the keyboard was removable. So, if you ignore the huge rectangular block behind the screen, this will pretty much be a 25 year old tablet !!! ![alt tag](https://github.com/ChathunKurera/LaptopDisassembling/blob/master/images/removableKeyboard.jpg)
 
